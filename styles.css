@@ -25,7 +25,6 @@ body{
     radial-gradient(900px 500px at 85% 20%, rgba(103,232,249,.10), transparent 55%),
     var(--bg);
 }
-
 /* Utilities */
 .container{width:min(1100px, 92%); margin-inline:auto}
 .section{padding:86px 0}
